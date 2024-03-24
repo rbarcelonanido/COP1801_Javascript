@@ -8,6 +8,7 @@ Utilinzing the favorite number as the radius, the program calculates the area of
 - Result Presentation: Outputs a personalized message directly on the webpage using the 'document.write()' method, showcasing the calculated area of a circle.
 
 
+
 **How It Works**
 
 _Collecting User Information_
@@ -21,6 +22,7 @@ _Mathematical Operations_
 _Displaying Result_
 - The program constructs a personalized message incorporating the user's name, their favorite number, and the calculated area of the circle.
 - This message is then displayed on the webpage using 'document.write();, formatted within a paragraph tag for better readability.
+
 
 
 **Technologies Used**
