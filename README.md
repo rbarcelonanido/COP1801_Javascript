@@ -1,16 +1,16 @@
-_**Program Overview**_
+**Program Overview**:
 
 This simple web-based application prompts the user for their first name and favorite number.
 Utilinzing the favorite number as the radius, the program calculates the area of a circle and presents the result in a friendly message to the user.
 
-_**Features**_
+**Features**:
 - User Interaction: Through prompt dialogs, the program collects user input for personalization and calculations.
 - Mathematical Calculation: Demonstrates the practical use of mathematics in programming by calculating the area of a circle based on the user's input.
 - Result Presentation: Outputs a personalized message directly on the webpage using the 'document.write()' method, showcasing the calculated area of a circle.
 
 
 
-_**How It Works**_
+**How It Works**:
 
 _Collecting User Information_
 - The program first asks for the user's first name to personalize the interaction.
@@ -26,10 +26,10 @@ _Displaying Result_
 
 
 
-_**Technologies Used**_
+**Technologies Used**:
 
 _JavaScript_
 - The entire program is written in JavaScript, leveraging built-in ovjects like 'Math' for calculations and 'document' for displaying result.
 
-_**Running the Program**_
+**Running the Program**:
 - To run this program, simply include the provided JavaScript code in an HTML file within a '<script>' tag. Open the HTML file in a web browser to interact with the application.
