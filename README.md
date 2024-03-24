@@ -24,6 +24,7 @@ _Displaying Result_
 
 
 **Technologies Used**
+
 _JavaScript_
 - The entire program is written in JavaScript, leveraging built-in ovjects like 'Math' for calculations and 'document' for displaying result.
 
