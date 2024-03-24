@@ -9,6 +9,7 @@ Utilinzing the favorite number as the radius, the program calculates the area of
 
 
 **How It Works**
+
 _Collecting User Information_
 - The program first asks for the user's first name to personalize the interaction.
 - It then requests the user's favorite number, which will be used as the radius of a circle for subsequent calculations.
